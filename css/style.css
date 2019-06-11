@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-    color: #a5f55b73;
+    color: #f3f5f173;
     text-decoration: none;
     transition: all 0.5s ease-in-out;
 }
@@ -639,9 +639,10 @@ a:hover {
 }
 
 .intro .intro-title {
-    color: rgb(0, 4, 255);
+    color: rgb(249, 249, 252);
     font-weight: 600;
     font-size: 3rem;
+    text-decoration-line: underline;
 }
 
 .intro .intro-subtitle {
@@ -668,7 +669,7 @@ a:hover {
 
 .intro-single .breadcrumb {
     background-color: transparent;
-    color: #0078ff;
+    color: #ffffff;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
